@@ -1,1 +1,0 @@
-Just a version of binary search, not the most elegant but I more did it for experience with the binary search algorithm as part of Algorithms, DS and Computability.
